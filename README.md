@@ -1,7 +1,7 @@
 # Certificados
 Última atualização: 11/01/2021
 
-Certificados de cursos e palestras
+## Certificados de cursos e palestras
 
 * Ética no desenvolvimento de sistemas - Funcadão Bradesco
 * HTML básico - Fundação Bradesco
